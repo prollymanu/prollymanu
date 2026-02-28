@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Kenyan software student passionate about tec
 - **🌍 Location**: Kenya  
 - **📚 Background**: Software Development Student  
 - **🎯 Interests**: Technology, innovation, and building impactful solutions  
-- **🌱 Currently Learning**: Infrastructure engineering, web development, Devops  
+- **🌱 Currently Learning**: AI,Infrastructure engineering, web development, Devops  
 - **🌟 Hobbies**: Traveling, spending time with friends and family, watching shows/movies, and taking rejuvinating long walks
 
 ## How to Use
